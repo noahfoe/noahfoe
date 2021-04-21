@@ -7,9 +7,9 @@ I'm Noah Foley, a senior at Texas State University. I am majoring in Computer Sc
 [![Linkedin Badge](https://img.shields.io/badge/-noahfoe-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahfoe/) [![Mail Badge](https://img.shields.io/badge/-noahfoley@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 - :computer: Most used line of code `git push origin master`
-- 🤔 I’m looking for a Software Engineering Internship for Summer 2021.
+- 🧐 I’m looking for a Software Engineering Internship for Summer 2021.
 - 📫 How to reach me: noahfoley6@gmail.com.
-- ⚡ Hobbies: I enjoy playing video games and watching Netflix.
+- 🎮 Hobbies: I enjoy playing video games and watching Netflix.
 
 ### Top Technologies
 
