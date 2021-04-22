@@ -15,7 +15,7 @@ I'm Noah Foley, a senior at Texas State University. I am majoring in Computer Sc
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Flutter Badge](https://img.shields.io/badge/-flutter-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=blue)](https://github.com/noahfoe/texas_real_state) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/noahfoe/covid19-tracker-website) [![Python Badge](https://img.shields.io/badge/-python-orange?style=for-the-badge&labelColor=black&logo=python&logoColor=orange)](https://github.com/noahfoe/InstagramBot) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/noahfoe/mac-mood-app)
+[![Flutter Badge](https://img.shields.io/badge/-flutter-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=blue)](https://github.com/noahfoe/texas_real_state) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/noahfoe/covid19-tracker-website) [![Python Badge](https://img.shields.io/badge/-python-orange?style=for-the-badge&labelColor=black&logo=python&logoColor=orange)](https://github.com/noahfoe/Pokemon_Dataset_K-Nearest_Neighbors) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/noahfoe/mac-mood-app)
 
 ### Skills
 
@@ -49,10 +49,3 @@ I'm Noah Foley, a senior at Texas State University. I am majoring in Computer Sc
 
 
 ![Noah's github stats](https://github-readme-stats.vercel.app/api?username=noahfoe&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
