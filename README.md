@@ -35,12 +35,11 @@ I'm Noah Foley, a senior at Texas State University. I am majoring in Computer Sc
 <br />
 <br />
 
-### More Info
+### Projects I'm Most Proud Of
 - :link: [My Resume Website](https://noahfoe.github.io)
 - :mask: [My COVID-19 Tracker Website](https://noahfoe.github.io/covid19-tracker-website)
 - :city_sunrise: [My Texas State Real Estate App](https://github.com/noahfoe/texas_real_state)
 - :notes: [My Mac Miller Mood App](https://github.com/noahfoe/mac-mood-app)
-- :email: noahfoley6@gmail.com
 
 
 #### Profile Visits 
