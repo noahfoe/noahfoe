@@ -7,14 +7,11 @@ I'm Noah Foley, a senior at Texas State University. I am majoring in Computer Sc
 [![Linkedin Badge](https://img.shields.io/badge/-noahfoe-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahfoe/) [![Mail Badge](https://img.shields.io/badge/-noahfoley6@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noahfoley6@gmail.com)
 
 - :computer: Most used line of code `git push origin master`
-- 🧐 I’m looking for a Software Engineering Internship for Summer 2021.
-- 📫 How to reach me: noahfoley6@gmail.com.
-- 🎮 Hobbies: I enjoy playing video games and watching Netflix.
+- :mortar_board: I’m looking for a Software Engineering Internship for Summer 2021.
+- :mailbox_with_mail: How to reach me: noahfoley6@gmail.com.
+- :video_game: Hobbies: I enjoy playing video games and watching Netflix.
 
 ### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
 [![Flutter Badge](https://img.shields.io/badge/-flutter-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=blue)](https://github.com/noahfoe/texas_real_state) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/noahfoe/covid19-tracker-website) [![Python Badge](https://img.shields.io/badge/-python-orange?style=for-the-badge&labelColor=black&logo=python&logoColor=orange)](https://github.com/noahfoe/Pokemon_Dataset_K-Nearest_Neighbors) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/noahfoe/mac-mood-app)
 
 ### Skills
@@ -39,13 +36,14 @@ I'm Noah Foley, a senior at Texas State University. I am majoring in Computer Sc
 <br />
 
 ### More Info
-- :paperclip: [My Resume Website](https://noahfoe.github.io)
+- :link: [My Resume Website](https://noahfoe.github.io)
+- :mask: [My COVID-19 Tracker Website](https://noahfoe.github.io/covid19-tracker-website)
+- :city_sunrise: [My Texas State Real Estate App](https://github.com/noahfoe/texas_real_state)
+- :notes: [My Mac Miller Mood App](https://github.com/noahfoe/mac-mood-app)
 - :email: noahfoley6@gmail.com
 
 
 #### Profile Visits 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=noahfoe)
-
 
 ![Noah's github stats](https://github-readme-stats.vercel.app/api?username=noahfoe&count_private=true&theme=tokyonight&hide=contribs,prs)
