@@ -7,7 +7,7 @@ I'm Noah Foley, a senior at Texas State University. I am majoring in Computer Sc
 [![Linkedin Badge](https://img.shields.io/badge/-noahfoe-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahfoe/) [![Mail Badge](https://img.shields.io/badge/-noahfoley6@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noahfoley6@gmail.com)
 
 - :computer: Most used line of code `git push origin master`
-- :mortar_board: Currently Interning at Aderoo.
+- :mortar_board: Currently Interning at Aderoo and searching for a full time position.
 - :mailbox_with_mail: How to reach me: noahfoley6@gmail.com.
 - :video_game: Hobbies: I enjoy playing video games and watching Netflix.
 
