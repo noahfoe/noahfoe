@@ -1,6 +1,8 @@
 ## Hi I'm Noah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Noah Foley, a recent graduate from Texas State University. I have a major in Computer Science and two minors; one minor in Communication Studies, and another in Applied Mathematics.
+I'm Noah Foley, a graduate from Texas State University. I have a major in Computer Science and two minors; one minor in Communication Studies, and another in Applied Mathematics.
+
+I have 3+ years of experience as a Flutter Developer on both mobile and web!
 
 ### Connect with me!
 
@@ -36,7 +38,7 @@ I'm Noah Foley, a recent graduate from Texas State University. I have a major in
 <br />
 
 ### Projects I'm Most Proud Of
-- :link: [My Resume Website](https://noahfoe.github.io)
+- :link: [My 'Resume in a Console' Website]([https://noahfoe.github.io](https://noahfoe.github.io/Resume-Console-Website/))
 - :mask: [My COVID-19 Tracker Website](https://noahfoe.github.io/covid19-tracker-website)
 - :city_sunrise: [My Texas State Real Estate App](https://github.com/noahfoe/texas_real_state)
 - :notes: [My Mac Miller Mood App](https://github.com/noahfoe/mac-mood-app)
