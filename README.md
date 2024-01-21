@@ -38,7 +38,7 @@ I have 3+ years of experience as a Flutter Developer on both mobile and web!
 <br />
 
 ### Projects I'm Most Proud Of
-- :link: [My 'Resume in a Console' Website]([https://noahfoe.github.io](https://noahfoe.github.io/Resume-Console-Website/))
+- :link: [My 'Resume in a Console' Website](https://noahfoe.github.io/Resume-Console-Website/)
 - :mask: [My COVID-19 Tracker Website](https://noahfoe.github.io/covid19-tracker-website)
 - :city_sunrise: [My Texas State Real Estate App](https://github.com/noahfoe/texas_real_state)
 - :notes: [My Mac Miller Mood App](https://github.com/noahfoe/mac-mood-app)
