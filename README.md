@@ -2,7 +2,7 @@
 
 I'm Noah Foley, a graduate from Texas State University. I have a major in Computer Science and two minors; one minor in Communication Studies, and another in Applied Mathematics.
 
-I have 3+ years of experience as a Flutter Developer on both mobile and web!
+I have 4+ years of experience as a Flutter Developer on both mobile and web!
 
 ### Connect with me!
 
