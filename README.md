@@ -43,8 +43,4 @@ I have 4+ years of experience as a Flutter Developer on both mobile and web!
 - :city_sunrise: [My Texas State Real Estate App](https://github.com/noahfoe/texas_real_state)
 - :notes: [My Mac Miller Mood App](https://github.com/noahfoe/mac-mood-app)
 
-
-#### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=noahfoe)
-
 ![Noah's github stats](https://github-readme-stats.vercel.app/api?username=noahfoe&count_private=true&theme=tokyonight&hide=contribs,prs)
