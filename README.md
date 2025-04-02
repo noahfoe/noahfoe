@@ -11,7 +11,7 @@ I have 4+ years of experience as a Flutter Developer on both mobile and web!
 - :computer: Most used line of code `git push origin master`
 - :mortar_board: Currently searching for a full time Flutter Developer position.
 - :mailbox_with_mail: How to reach me: noahfoley6@gmail.com.
-- :video_game: Hobbies: I enjoy playing video games and watching Netflix.
+- :video_game: Hobbies: I enjoy playing video games and skateboarding. 🛹
 
 ### Top Technologies
 [![Flutter Badge](https://img.shields.io/badge/-flutter-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=blue)](https://github.com/noahfoe/texas_real_state) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/noahfoe/covid19-tracker-website) [![Python Badge](https://img.shields.io/badge/-python-orange?style=for-the-badge&labelColor=black&logo=python&logoColor=orange)](https://github.com/noahfoe/Pokemon_Dataset_K-Nearest_Neighbors) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/noahfoe/mac-mood-app)
