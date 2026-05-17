@@ -41,7 +41,7 @@ I have 5+ years of experience as a Flutter Developer on both mobile and web!
 - 🏆: [STEAMER - Steam Achievement Tracker](https://play.google.com/store/apps/details?id=com.thepetrichor.steamer&hl=en_US)
 
 ### Live Websites
-- 🏗️: [Foley's One Stop (Dad's business)](https://foleysonestop.com/)
+- 🏗️: [Foley's One Stop](https://foleysonestop.com/)
 - 🖥️: [Resume in a Console](https://noahfoe.github.io/Resume-Console-Website/)
 
 ### Additional Projects
