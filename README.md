@@ -36,12 +36,13 @@ I have 5+ years of experience as a Flutter Developer on both mobile and web!
 <br />
 <br />
 
-### Live Projects
+### Live Apps
 - 🎮: [Flux Survivor](https://play.google.com/store/apps/details?id=com.thepetrichor.fluxsurvivor&hl=en_US)
-- 🖥️: [Resume in a Console Website](https://noahfoe.github.io/Resume-Console-Website/)
+- 🏆: [STEAMER - Steam Achievement Tracker](https://play.google.com/store/apps/details?id=com.thepetrichor.steamer&hl=en_US)
 
-### In-Development Projects
-- 🏆: [STEAMER - Steam Achievement Tracker](https://github.com/noahfoe/STEAMER-Steam-Achievement-Tracker-App)
+### Live Websites
+- 🏗️: [Foley's One Stop (Dad's business)](https://foleysonestop.com/)
+- 🖥️: [Resume in a Console](https://noahfoe.github.io/Resume-Console-Website/)
 
 ### Additional Projects
 - 🏘️: [Texas Real State App](https://github.com/noahfoe/texas_real_state)
